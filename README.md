@@ -1,5 +1,6 @@
 Scarlet官网链接：https://usescarlet.com/    （不限制设备和系统）
 巨魔官网链接：https://trollstore.app/        (14.0--15.11)
+ipa资源整链接：file:///D:/%E6%96%87%E6%A1%A3/Tencent%20Files/2639278298/FileRecv/ipa%E5%AE%89%E8%A3%85%E5%8C%85.html
 
 # TrollStore
 
